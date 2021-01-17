@@ -10,3 +10,7 @@ Construção inicial a partir de cruzamento de médias exponenciais de 21 e 9 pe
 Por equanto usando os valores de fechamento como parâmetro para os testes.
 implementar apagar registros de sequencia de tendencia não em uso
 em construcao....
+
+## Novo notebook com testes considerando alguns indicadores
+- Bop
+- Rsi
